@@ -51,7 +51,7 @@ This pipeline automates the process of downloading CSV files from the Boston Ope
 
 ## Architecture Diagram
 
-![ETL Pipeline Architecture](./images/Architecture.pngg)  
+![ETL Pipeline Architecture](./images/Architecture.png)  
 
 
 ## Notes
